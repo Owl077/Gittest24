@@ -1,0 +1,38 @@
+- een invoerscherm zien
+
+- we gaan het proberen met een textarea tag
+
+- button tag toevoegen
+
+ik wil een knop zien
+
+
+
+var leeftijd aanmaken 
+
+doc value
+
+Console log laten zien, leeftijd
+
+if statement < 16
+
+
+
+onclick
+start
+
+console "yes"
+
+div tag met id goedkeuring
+doc get inner "yes"
+
+microsoft azure inlog:
+Proefaccount@infocodefounders.onmicrosoft.com
+w@lkom123
+
+controleren of ik onder de 16 ben
+
+Kleur kiezen: #fffff
+afbeelding die je gebruikt in het bestand moet in de zelfde originele map staan om te gebruiken.
+Linkverwijzing: <a href= "link" target= "_blank"> ga naar nieuws<a/a>
+<br> (tussenvoegsel)
